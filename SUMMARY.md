@@ -15,7 +15,7 @@
 
 ## 2⃣ Command & Control
 
-* [Page 1](command-and-control/page-1.md)
+* [Overview](command-and-control/overview.md)
 * [Red Team Ops Lab](command-and-control/red-team-ops-lab.md)
 * [Cobalt Strike](command-and-control/cobalt-strike.md)
 * [Starting the Team Server](command-and-control/starting-the-team-server.md)
